@@ -277,18 +277,6 @@ private const val BASE_URL = "https://your-api-domain.com"
 - **Logging**: Structured logging with timestamps
 - **Metrics**: Response time, error rate, throughput
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests for new functionality
-5. Submit a pull request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 🆘 Troubleshooting
 
 ### Common Issues
@@ -323,7 +311,3 @@ For issues and questions:
 - **Biometric Authentication**: Fingerprint/Face ID
 - **Offline Support**: Local data caching
 - **Multi-language Support**: Internationalization
-
----
-
-**Built with ❤️ using Kotlin Multiplatform, Jetpack Compose, and Firebase**
