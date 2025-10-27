@@ -36,6 +36,7 @@ Send payments with:
 - Currency selection (USD, EUR, GBP)
 - Real-time validation
 - Success/error feedback
+<img width="350" height="500" alt="Screenshot 2025-10-27 at 15 18 53" src="https://github.com/user-attachments/assets/6cef7fe4-659b-4bea-8ef8-da4c5c7cc168" />
 
 ### Transaction History Screen
 View all past transactions:
@@ -44,6 +45,7 @@ View all past transactions:
 - Timestamp
 - Status (Completed, Pending, Failed)
 - Real-time updates from Firestore
+<img width="308" height="500" alt="Screenshot 2025-10-27 at 15 20 56" src="https://github.com/user-attachments/assets/353441a5-b7be-4f60-8957-ba02d2075b25" />
 
 ## 🛠️ Tech Stack
 
