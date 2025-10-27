@@ -1,0 +1,730 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/dennislukeowuor/Documents/Cashi_Mobile_App/androidApp/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/dennislukeowuor/Documents/Cashi_Mobile_App/androidApp/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/dennislukeowuor/Documents/Cashi_Mobile_App/androidApp/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/dennislukeowuor/Documents/Cashi_Mobile_App/androidApp/src/main/AndroidManifest.xml:2:1-33:12
+MERGED from [:shared] /Users/dennislukeowuor/Documents/Cashi_Mobile_App/shared/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [io.insert-koin:koin-androidx-compose:3.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/81a62265f947408a6ec8445ed2572e1b/transformed/koin-androidx-compose-3.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [io.insert-koin:koin-android:3.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/c6c7521eb9fec52884298909f3452f70/transformed/koin-android-3.5.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.navigation:navigation-common:2.7.6] /Users/dennislukeowuor/.gradle/caches/transforms-3/60c4530d4db72ca97e3ba67b154c4d78/transformed/navigation-common-2.7.6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.7.6] /Users/dennislukeowuor/.gradle/caches/transforms-3/69aaec8c3e0c63cd5745a9da2b49ab1e/transformed/navigation-runtime-2.7.6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.6] /Users/dennislukeowuor/.gradle/caches/transforms-3/2bdc537547b09f66398870edabb5d3a2/transformed/navigation-common-ktx-2.7.6/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.6] /Users/dennislukeowuor/.gradle/caches/transforms-3/d05422ca889b2b7a482d6b5d2e82fe46/transformed/navigation-runtime-ktx-2.7.6/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-compose:2.7.6] /Users/dennislukeowuor/.gradle/caches/transforms-3/e277eab7178b0d982ad98ac67ec97dd1/transformed/navigation-compose-2.7.6/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material3:material3:1.1.2] /Users/dennislukeowuor/.gradle/caches/transforms-3/2caa0b95f19845cdeb19b5ba189d274d/transformed/material3-1.1.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-ripple-android:1.5.4] /Users/dennislukeowuor/.gradle/caches/transforms-3/7847a5c53e96e05d780e380ab2df4067/transformed/material-ripple-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.5.4] /Users/dennislukeowuor/.gradle/caches/transforms-3/16f5e628ac55e3cd02e1fa516d95a3b4/transformed/material-icons-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-android:1.5.4] /Users/dennislukeowuor/.gradle/caches/transforms-3/7eb0399a7e8964aa375befb5d8a7f7e9/transformed/material-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.5.4] /Users/dennislukeowuor/.gradle/caches/transforms-3/9f4fe2b21bbd5e913b7c54bfd6414fdb/transformed/animation-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.5.4] /Users/dennislukeowuor/.gradle/caches/transforms-3/a3d46f159e98aded4acbda60ab0cc4e5/transformed/animation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.4] /Users/dennislukeowuor/.gradle/caches/transforms-3/adadf92d048958ccfbc7b875128e8d7a/transformed/foundation-layout-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.5.4] /Users/dennislukeowuor/.gradle/caches/transforms-3/74bbc37f697346e524201cadb32593d7/transformed/foundation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.5.4] /Users/dennislukeowuor/.gradle/caches/transforms-3/52ccabde3ab533e2e79f240ef3234b85/transformed/ui-tooling-data-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.5.4] /Users/dennislukeowuor/.gradle/caches/transforms-3/0d6fffba64e2c32d9f203df04ba66fcb/transformed/ui-unit-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.5.4] /Users/dennislukeowuor/.gradle/caches/transforms-3/d3aaf3f0c97c717b577c6111c42b9af7/transformed/ui-geometry-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.5.4] /Users/dennislukeowuor/.gradle/caches/transforms-3/b7c9d299e9845904ad305f392d54852e/transformed/ui-util-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.5.4] /Users/dennislukeowuor/.gradle/caches/transforms-3/27b000d7de49ca3264030024bcd039c1/transformed/ui-text-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.4] /Users/dennislukeowuor/.gradle/caches/transforms-3/e51dfd341dba89800147a44a33f01c4a/transformed/ui-tooling-preview-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.4] /Users/dennislukeowuor/.gradle/caches/transforms-3/84927101b2c48eda3d1ea500ce813421/transformed/ui-tooling-release/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.5.4] /Users/dennislukeowuor/.gradle/caches/transforms-3/907743c0fae7fbf0e3a58e6005ef9db3/transformed/ui-graphics-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.5.4] /Users/dennislukeowuor/.gradle/caches/transforms-3/f0cf36566e37ef47e2788990501868fa/transformed/ui-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.4] /Users/dennislukeowuor/.gradle/caches/transforms-3/9368203dcdacbe6085cdf29917d05fca/transformed/ui-test-manifest-1.5.4/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/dennislukeowuor/.gradle/caches/transforms-3/f35e86389dab5358142762bcc5afa5a7/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/dennislukeowuor/.gradle/caches/transforms-3/8fe2f2bcac84df9dcb4a5da025c6ae50/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment-ktx:1.6.1] /Users/dennislukeowuor/.gradle/caches/transforms-3/e6b64e9b205bc92db9e212f8d3ec8870/transformed/fragment-ktx-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-firestore:24.10.1] /Users/dennislukeowuor/.gradle/caches/transforms-3/13000ab31e66bba7f9104d39c032e5bf/transformed/firebase-firestore-24.10.1/AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/60f8833770e377c5d05031854452ea8d/transformed/firebase-appcheck-interop-17.0.0/AndroidManifest.xml:15:1-25:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /Users/dennislukeowuor/.gradle/caches/transforms-3/f1196fd2add99307775646186baa3190/transformed/firebase-database-collection-18.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/dennislukeowuor/.gradle/caches/transforms-3/6cbeef53234a42cccb60034a5d10e847/transformed/play-services-base-18.0.1/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.firebase:firebase-analytics:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/ad0c7f7a10f47a2eada4b85b0bd0e27c/transformed/firebase-analytics-21.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/e6828a3b9cf68dea0304c9f5c82052ed/transformed/play-services-measurement-21.5.0/AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-api:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/caafc54ab7a518137ebbb04b36ca79af/transformed/play-services-measurement-api-21.5.0/AndroidManifest.xml:17:1-43:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/2932ef1372f721c5858e60e157d5a529/transformed/play-services-measurement-sdk-21.5.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] /Users/dennislukeowuor/.gradle/caches/transforms-3/6d8b0672d414859f3f44822ec610c4f7/transformed/firebase-auth-interop-19.0.2/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-installations:17.2.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/805a8b1dfc02f97fb440ec76d7479886/transformed/firebase-installations-17.2.0/AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] /Users/dennislukeowuor/.gradle/caches/transforms-3/01419104e04e16bbb490ef07f1d4bd4f/transformed/firebase-common-ktx-20.4.2/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.firebase:firebase-common:20.4.2] /Users/dennislukeowuor/.gradle/caches/transforms-3/c93d6d7bc2893185610758d7dbc5c246/transformed/firebase-common-20.4.2/AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/5cd15acc4d60174c02e95a6d483774ae/transformed/play-services-measurement-impl-21.5.0/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/25c4c86385f95dc8453acda05613d243/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/322d8b86265e7f9b5647bcfb2a58d682/transformed/play-services-measurement-sdk-api-21.5.0/AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.gms:play-services-measurement-base:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/fc26349d9c78d8c76f019b8850c458e0/transformed/play-services-measurement-base-21.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/dennislukeowuor/.gradle/caches/transforms-3/01401eaacf4e310bdd92f51b1ab8ffe5/transformed/play-services-stats-17.0.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/abe334b967fb9188cf525790121f11dd/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/c8a37d5343991b3e4080cd10f3009952/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/e38e99610dd05532d973f2d91dd599cb/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.4.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/f6b539a7226c6b2eb847a40282d29c7e/transformed/emoji2-views-helper-1.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/080e09b96deba171bf408b194792d277/transformed/emoji2-1.4.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/86532c2c363167d82208fe39941979d1/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/b4b5f83a86c3152c899f434aec3ceb27/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/cfd829dad926e1dd1fc18eed8f2712fb/transformed/lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/fbacb4e800875a1fabd2b5984f12e025/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/3031edcaa8c64734fa1c0bc079fc28ad/transformed/lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/c2aae1a46235a430a2bfed727eeba6d7/transformed/lifecycle-viewmodel-ktx-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/00e935e07c68b34d163a35cb59e693a4/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/dennislukeowuor/.gradle/caches/transforms-3/9acbcdff91533edc39edbc0dbd1f7e9e/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/dennislukeowuor/.gradle/caches/transforms-3/25e7a8bc6d538a5fa8109213db017e7d/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.4] /Users/dennislukeowuor/.gradle/caches/transforms-3/5a6bd5780edcd8447da0324dc1e06142/transformed/runtime-saveable-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.5.4] /Users/dennislukeowuor/.gradle/caches/transforms-3/2673f1c9bb357ef4c4a78d5438a61c3e/transformed/runtime-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] /Users/dennislukeowuor/.gradle/caches/transforms-3/7e7c758e336bfb07fbde646dba03a6c4/transformed/ads-adservices-java-1.0.0-beta05/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/dennislukeowuor/.gradle/caches/transforms-3/72a5b1506fda98a57c44616eb198f6c8/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] /Users/dennislukeowuor/.gradle/caches/transforms-3/e86690d82922cc566dbc94f1504c9eb3/transformed/firebase-installations-interop-17.1.1/AndroidManifest.xml:15:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/dennislukeowuor/.gradle/caches/transforms-3/0bd612602d02a986bdd4b83714520c90/transformed/play-services-tasks-18.0.2/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/7b2f67ec46310f6840d7ffbcb68231d0/transformed/play-services-basement-18.1.0/AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.6.1] /Users/dennislukeowuor/.gradle/caches/transforms-3/0839ff4d143f831a44a412e36c4ea92e/transformed/fragment-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.8.2] /Users/dennislukeowuor/.gradle/caches/transforms-3/36723af46ec6cd1bd73897307961ec01/transformed/activity-1.8.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-compose:1.8.2] /Users/dennislukeowuor/.gradle/caches/transforms-3/90b2305b90db403a910663827137ad84/transformed/activity-compose-1.8.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-ktx:1.8.2] /Users/dennislukeowuor/.gradle/caches/transforms-3/fdf8a1af1f06a0626af269f1c3319e51/transformed/activity-ktx-1.8.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/2153760e666f9342430805cb10b11309/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.12.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/92b42fba43ee35c1d8dabb2beb8244ac/transformed/core-ktx-1.12.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/72e577ca0b78b30bfef7b4d9aa5acdcb/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/da7eb13998d5d0ca0bd13c6a38392e37/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/2022ba3b0c5f1fc39de189c7d07075f4/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/6eacb70d02fab456f685318cc8d9c3b4/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/e741614929388f4aba99b4d053922af8/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/be9794ce9c7ac615829aefb0fe5b811f/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.12.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/1a04f1238542274b9045d9823092519b/transformed/core-1.12.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/6a2279a728a40737b7fd6f3c6cda1f79/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.7.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/44a6a807e21e842404d8c4a49762f834/transformed/lifecycle-viewmodel-compose-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/294c179733684230d7521546af62a7e2/transformed/lifecycle-runtime-ktx-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/b5c658adffb928ada1d1f2588d35bdc2/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:17.1.5] /Users/dennislukeowuor/.gradle/caches/transforms-3/313d7fa95f18ccd27825a4fbd7e22387/transformed/firebase-components-17.1.5/AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/01e5783a33211bad3743d1bf1f378af9/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/dennislukeowuor/.gradle/caches/transforms-3/906bb72113c2e4408fdab058655010a4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/79a5cf79b7c5a751531f51e3eb91c590/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/e8e836a8dad1a501bc419da42157c2e5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/07bc1f0ff50598a206e0c376351768c9/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/dennislukeowuor/.gradle/caches/transforms-3/e2a22635978d15425c6e6e1df17a5781/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/148856c06e31bb6fb6fe55c6352d6dff/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/631a002f43b75e36fe8201e8a419cef9/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/7c7413095f0dde655ea15a5d7ab23603/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/e3d1d8b5b0e9118c969c338b2abd5aaf/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [io.grpc:grpc-android:1.57.2] /Users/dennislukeowuor/.gradle/caches/transforms-3/c6772ed73d2126cce1fc70acb8cc2f46/transformed/grpc-android-1.57.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/9f6493405680466f6535e702c77d3567/transformed/protolite-well-known-types-18.0.0/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/dennislukeowuor/Documents/Cashi_Mobile_App/androidApp/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/dennislukeowuor/Documents/Cashi_Mobile_App/androidApp/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/dennislukeowuor/Documents/Cashi_Mobile_App/androidApp/src/main/AndroidManifest.xml:2:1-33:12
+	package
+		INJECTED from /Users/dennislukeowuor/Documents/Cashi_Mobile_App/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/dennislukeowuor/Documents/Cashi_Mobile_App/androidApp/src/main/AndroidManifest.xml:2:1-33:12
+		INJECTED from /Users/dennislukeowuor/Documents/Cashi_Mobile_App/androidApp/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/dennislukeowuor/Documents/Cashi_Mobile_App/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/dennislukeowuor/Documents/Cashi_Mobile_App/androidApp/src/main/AndroidManifest.xml:2:1-33:12
+		INJECTED from /Users/dennislukeowuor/Documents/Cashi_Mobile_App/androidApp/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/dennislukeowuor/Documents/Cashi_Mobile_App/androidApp/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/dennislukeowuor/Documents/Cashi_Mobile_App/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/dennislukeowuor/Documents/Cashi_Mobile_App/androidApp/src/main/AndroidManifest.xml:2:1-33:12
+		INJECTED from /Users/dennislukeowuor/Documents/Cashi_Mobile_App/androidApp/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/dennislukeowuor/Documents/Cashi_Mobile_App/androidApp/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/dennislukeowuor/Documents/Cashi_Mobile_App/androidApp/src/main/AndroidManifest.xml:5:5-67
+MERGED from [com.google.firebase:firebase-firestore:24.10.1] /Users/dennislukeowuor/.gradle/caches/transforms-3/13000ab31e66bba7f9104d39c032e5bf/transformed/firebase-firestore-24.10.1/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-firestore:24.10.1] /Users/dennislukeowuor/.gradle/caches/transforms-3/13000ab31e66bba7f9104d39c032e5bf/transformed/firebase-firestore-24.10.1/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-measurement:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/e6828a3b9cf68dea0304c9f5c82052ed/transformed/play-services-measurement-21.5.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/e6828a3b9cf68dea0304c9f5c82052ed/transformed/play-services-measurement-21.5.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/caafc54ab7a518137ebbb04b36ca79af/transformed/play-services-measurement-api-21.5.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/caafc54ab7a518137ebbb04b36ca79af/transformed/play-services-measurement-api-21.5.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-installations:17.2.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/805a8b1dfc02f97fb440ec76d7479886/transformed/firebase-installations-17.2.0/AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-installations:17.2.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/805a8b1dfc02f97fb440ec76d7479886/transformed/firebase-installations-17.2.0/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/5cd15acc4d60174c02e95a6d483774ae/transformed/play-services-measurement-impl-21.5.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/5cd15acc4d60174c02e95a6d483774ae/transformed/play-services-measurement-impl-21.5.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/322d8b86265e7f9b5647bcfb2a58d682/transformed/play-services-measurement-sdk-api-21.5.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/322d8b86265e7f9b5647bcfb2a58d682/transformed/play-services-measurement-sdk-api-21.5.0/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/dennislukeowuor/Documents/Cashi_Mobile_App/androidApp/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/dennislukeowuor/Documents/Cashi_Mobile_App/androidApp/src/main/AndroidManifest.xml:6:5-79
+MERGED from [com.google.firebase:firebase-firestore:24.10.1] /Users/dennislukeowuor/.gradle/caches/transforms-3/13000ab31e66bba7f9104d39c032e5bf/transformed/firebase-firestore-24.10.1/AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-firestore:24.10.1] /Users/dennislukeowuor/.gradle/caches/transforms-3/13000ab31e66bba7f9104d39c032e5bf/transformed/firebase-firestore-24.10.1/AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-measurement:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/e6828a3b9cf68dea0304c9f5c82052ed/transformed/play-services-measurement-21.5.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/e6828a3b9cf68dea0304c9f5c82052ed/transformed/play-services-measurement-21.5.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/caafc54ab7a518137ebbb04b36ca79af/transformed/play-services-measurement-api-21.5.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/caafc54ab7a518137ebbb04b36ca79af/transformed/play-services-measurement-api-21.5.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-installations:17.2.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/805a8b1dfc02f97fb440ec76d7479886/transformed/firebase-installations-17.2.0/AndroidManifest.xml:7:5-79
+MERGED from [com.google.firebase:firebase-installations:17.2.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/805a8b1dfc02f97fb440ec76d7479886/transformed/firebase-installations-17.2.0/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/5cd15acc4d60174c02e95a6d483774ae/transformed/play-services-measurement-impl-21.5.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/5cd15acc4d60174c02e95a6d483774ae/transformed/play-services-measurement-impl-21.5.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/322d8b86265e7f9b5647bcfb2a58d682/transformed/play-services-measurement-sdk-api-21.5.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/322d8b86265e7f9b5647bcfb2a58d682/transformed/play-services-measurement-sdk-api-21.5.0/AndroidManifest.xml:24:5-79
+MERGED from [io.grpc:grpc-android:1.57.2] /Users/dennislukeowuor/.gradle/caches/transforms-3/c6772ed73d2126cce1fc70acb8cc2f46/transformed/grpc-android-1.57.2/AndroidManifest.xml:7:5-79
+MERGED from [io.grpc:grpc-android:1.57.2] /Users/dennislukeowuor/.gradle/caches/transforms-3/c6772ed73d2126cce1fc70acb8cc2f46/transformed/grpc-android-1.57.2/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from /Users/dennislukeowuor/Documents/Cashi_Mobile_App/androidApp/src/main/AndroidManifest.xml:6:22-76
+application
+ADDED from /Users/dennislukeowuor/Documents/Cashi_Mobile_App/androidApp/src/main/AndroidManifest.xml:8:5-31:19
+MERGED from [io.insert-koin:koin-android:3.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/c6c7521eb9fec52884298909f3452f70/transformed/koin-android-3.5.0/AndroidManifest.xml:9:5-20
+MERGED from [io.insert-koin:koin-android:3.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/c6c7521eb9fec52884298909f3452f70/transformed/koin-android-3.5.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.4] /Users/dennislukeowuor/.gradle/caches/transforms-3/84927101b2c48eda3d1ea500ce813421/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.4] /Users/dennislukeowuor/.gradle/caches/transforms-3/84927101b2c48eda3d1ea500ce813421/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.4] /Users/dennislukeowuor/.gradle/caches/transforms-3/9368203dcdacbe6085cdf29917d05fca/transformed/ui-test-manifest-1.5.4/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.4] /Users/dennislukeowuor/.gradle/caches/transforms-3/9368203dcdacbe6085cdf29917d05fca/transformed/ui-test-manifest-1.5.4/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.firebase:firebase-firestore:24.10.1] /Users/dennislukeowuor/.gradle/caches/transforms-3/13000ab31e66bba7f9104d39c032e5bf/transformed/firebase-firestore-24.10.1/AndroidManifest.xml:13:5-24:19
+MERGED from [com.google.firebase:firebase-firestore:24.10.1] /Users/dennislukeowuor/.gradle/caches/transforms-3/13000ab31e66bba7f9104d39c032e5bf/transformed/firebase-firestore-24.10.1/AndroidManifest.xml:13:5-24:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/60f8833770e377c5d05031854452ea8d/transformed/firebase-appcheck-interop-17.0.0/AndroidManifest.xml:23:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/60f8833770e377c5d05031854452ea8d/transformed/firebase-appcheck-interop-17.0.0/AndroidManifest.xml:23:5-20
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/dennislukeowuor/.gradle/caches/transforms-3/6cbeef53234a42cccb60034a5d10e847/transformed/play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/dennislukeowuor/.gradle/caches/transforms-3/6cbeef53234a42cccb60034a5d10e847/transformed/play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-analytics:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/ad0c7f7a10f47a2eada4b85b0bd0e27c/transformed/firebase-analytics-21.5.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/ad0c7f7a10f47a2eada4b85b0bd0e27c/transformed/firebase-analytics-21.5.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/e6828a3b9cf68dea0304c9f5c82052ed/transformed/play-services-measurement-21.5.0/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/e6828a3b9cf68dea0304c9f5c82052ed/transformed/play-services-measurement-21.5.0/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/caafc54ab7a518137ebbb04b36ca79af/transformed/play-services-measurement-api-21.5.0/AndroidManifest.xml:29:5-41:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/caafc54ab7a518137ebbb04b36ca79af/transformed/play-services-measurement-api-21.5.0/AndroidManifest.xml:29:5-41:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/2932ef1372f721c5858e60e157d5a529/transformed/play-services-measurement-sdk-21.5.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/2932ef1372f721c5858e60e157d5a529/transformed/play-services-measurement-sdk-21.5.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] /Users/dennislukeowuor/.gradle/caches/transforms-3/6d8b0672d414859f3f44822ec610c4f7/transformed/firebase-auth-interop-19.0.2/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] /Users/dennislukeowuor/.gradle/caches/transforms-3/6d8b0672d414859f3f44822ec610c4f7/transformed/firebase-auth-interop-19.0.2/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-installations:17.2.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/805a8b1dfc02f97fb440ec76d7479886/transformed/firebase-installations-17.2.0/AndroidManifest.xml:11:5-22:19
+MERGED from [com.google.firebase:firebase-installations:17.2.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/805a8b1dfc02f97fb440ec76d7479886/transformed/firebase-installations-17.2.0/AndroidManifest.xml:11:5-22:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] /Users/dennislukeowuor/.gradle/caches/transforms-3/01419104e04e16bbb490ef07f1d4bd4f/transformed/firebase-common-ktx-20.4.2/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] /Users/dennislukeowuor/.gradle/caches/transforms-3/01419104e04e16bbb490ef07f1d4bd4f/transformed/firebase-common-ktx-20.4.2/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-common:20.4.2] /Users/dennislukeowuor/.gradle/caches/transforms-3/c93d6d7bc2893185610758d7dbc5c246/transformed/firebase-common-20.4.2/AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.firebase:firebase-common:20.4.2] /Users/dennislukeowuor/.gradle/caches/transforms-3/c93d6d7bc2893185610758d7dbc5c246/transformed/firebase-common-20.4.2/AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/5cd15acc4d60174c02e95a6d483774ae/transformed/play-services-measurement-impl-21.5.0/AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/5cd15acc4d60174c02e95a6d483774ae/transformed/play-services-measurement-impl-21.5.0/AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/25c4c86385f95dc8453acda05613d243/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/25c4c86385f95dc8453acda05613d243/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/fc26349d9c78d8c76f019b8850c458e0/transformed/play-services-measurement-base-21.5.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/fc26349d9c78d8c76f019b8850c458e0/transformed/play-services-measurement-base-21.5.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/dennislukeowuor/.gradle/caches/transforms-3/01401eaacf4e310bdd92f51b1ab8ffe5/transformed/play-services-stats-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/dennislukeowuor/.gradle/caches/transforms-3/01401eaacf4e310bdd92f51b1ab8ffe5/transformed/play-services-stats-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/abe334b967fb9188cf525790121f11dd/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/abe334b967fb9188cf525790121f11dd/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/080e09b96deba171bf408b194792d277/transformed/emoji2-1.4.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/080e09b96deba171bf408b194792d277/transformed/emoji2-1.4.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/86532c2c363167d82208fe39941979d1/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/86532c2c363167d82208fe39941979d1/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/dennislukeowuor/.gradle/caches/transforms-3/72a5b1506fda98a57c44616eb198f6c8/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/dennislukeowuor/.gradle/caches/transforms-3/72a5b1506fda98a57c44616eb198f6c8/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/dennislukeowuor/.gradle/caches/transforms-3/0bd612602d02a986bdd4b83714520c90/transformed/play-services-tasks-18.0.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/dennislukeowuor/.gradle/caches/transforms-3/0bd612602d02a986bdd4b83714520c90/transformed/play-services-tasks-18.0.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/7b2f67ec46310f6840d7ffbcb68231d0/transformed/play-services-basement-18.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/7b2f67ec46310f6840d7ffbcb68231d0/transformed/play-services-basement-18.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.core:core:1.12.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/1a04f1238542274b9045d9823092519b/transformed/core-1.12.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.12.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/1a04f1238542274b9045d9823092519b/transformed/core-1.12.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/dennislukeowuor/.gradle/caches/transforms-3/906bb72113c2e4408fdab058655010a4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/dennislukeowuor/.gradle/caches/transforms-3/906bb72113c2e4408fdab058655010a4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/e8e836a8dad1a501bc419da42157c2e5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/e8e836a8dad1a501bc419da42157c2e5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/dennislukeowuor/.gradle/caches/transforms-3/e2a22635978d15425c6e6e1df17a5781/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/dennislukeowuor/.gradle/caches/transforms-3/e2a22635978d15425c6e6e1df17a5781/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.12.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/1a04f1238542274b9045d9823092519b/transformed/core-1.12.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/dennislukeowuor/Documents/Cashi_Mobile_App/androidApp/src/main/AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from /Users/dennislukeowuor/Documents/Cashi_Mobile_App/androidApp/src/main/AndroidManifest.xml:14:9-41
+	android:fullBackupContent
+		ADDED from /Users/dennislukeowuor/Documents/Cashi_Mobile_App/androidApp/src/main/AndroidManifest.xml:12:9-54
+	android:roundIcon
+		ADDED from /Users/dennislukeowuor/Documents/Cashi_Mobile_App/androidApp/src/main/AndroidManifest.xml:16:9-54
+	tools:targetApi
+		ADDED from /Users/dennislukeowuor/Documents/Cashi_Mobile_App/androidApp/src/main/AndroidManifest.xml:19:9-29
+	android:icon
+		ADDED from /Users/dennislukeowuor/Documents/Cashi_Mobile_App/androidApp/src/main/AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from /Users/dennislukeowuor/Documents/Cashi_Mobile_App/androidApp/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /Users/dennislukeowuor/Documents/Cashi_Mobile_App/androidApp/src/main/AndroidManifest.xml:18:9-52
+	android:networkSecurityConfig
+		ADDED from /Users/dennislukeowuor/Documents/Cashi_Mobile_App/androidApp/src/main/AndroidManifest.xml:15:9-69
+	android:dataExtractionRules
+		ADDED from /Users/dennislukeowuor/Documents/Cashi_Mobile_App/androidApp/src/main/AndroidManifest.xml:11:9-65
+	android:name
+		ADDED from /Users/dennislukeowuor/Documents/Cashi_Mobile_App/androidApp/src/main/AndroidManifest.xml:9:9-41
+activity#com.cashi.androidapp.MainActivity
+ADDED from /Users/dennislukeowuor/Documents/Cashi_Mobile_App/androidApp/src/main/AndroidManifest.xml:20:9-30:20
+	android:label
+		ADDED from /Users/dennislukeowuor/Documents/Cashi_Mobile_App/androidApp/src/main/AndroidManifest.xml:23:13-45
+	android:exported
+		ADDED from /Users/dennislukeowuor/Documents/Cashi_Mobile_App/androidApp/src/main/AndroidManifest.xml:22:13-36
+	android:theme
+		ADDED from /Users/dennislukeowuor/Documents/Cashi_Mobile_App/androidApp/src/main/AndroidManifest.xml:24:13-56
+	android:name
+		ADDED from /Users/dennislukeowuor/Documents/Cashi_Mobile_App/androidApp/src/main/AndroidManifest.xml:21:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/dennislukeowuor/Documents/Cashi_Mobile_App/androidApp/src/main/AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from /Users/dennislukeowuor/Documents/Cashi_Mobile_App/androidApp/src/main/AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from /Users/dennislukeowuor/Documents/Cashi_Mobile_App/androidApp/src/main/AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/dennislukeowuor/Documents/Cashi_Mobile_App/androidApp/src/main/AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from /Users/dennislukeowuor/Documents/Cashi_Mobile_App/androidApp/src/main/AndroidManifest.xml:28:27-74
+uses-sdk
+INJECTED from /Users/dennislukeowuor/Documents/Cashi_Mobile_App/androidApp/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/dennislukeowuor/Documents/Cashi_Mobile_App/androidApp/src/main/AndroidManifest.xml
+INJECTED from /Users/dennislukeowuor/Documents/Cashi_Mobile_App/androidApp/src/main/AndroidManifest.xml
+MERGED from [:shared] /Users/dennislukeowuor/Documents/Cashi_Mobile_App/shared/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:shared] /Users/dennislukeowuor/Documents/Cashi_Mobile_App/shared/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [io.insert-koin:koin-androidx-compose:3.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/81a62265f947408a6ec8445ed2572e1b/transformed/koin-androidx-compose-3.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [io.insert-koin:koin-androidx-compose:3.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/81a62265f947408a6ec8445ed2572e1b/transformed/koin-androidx-compose-3.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [io.insert-koin:koin-android:3.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/c6c7521eb9fec52884298909f3452f70/transformed/koin-android-3.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [io.insert-koin:koin-android:3.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/c6c7521eb9fec52884298909f3452f70/transformed/koin-android-3.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.navigation:navigation-common:2.7.6] /Users/dennislukeowuor/.gradle/caches/transforms-3/60c4530d4db72ca97e3ba67b154c4d78/transformed/navigation-common-2.7.6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.7.6] /Users/dennislukeowuor/.gradle/caches/transforms-3/60c4530d4db72ca97e3ba67b154c4d78/transformed/navigation-common-2.7.6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.7.6] /Users/dennislukeowuor/.gradle/caches/transforms-3/69aaec8c3e0c63cd5745a9da2b49ab1e/transformed/navigation-runtime-2.7.6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.7.6] /Users/dennislukeowuor/.gradle/caches/transforms-3/69aaec8c3e0c63cd5745a9da2b49ab1e/transformed/navigation-runtime-2.7.6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.6] /Users/dennislukeowuor/.gradle/caches/transforms-3/2bdc537547b09f66398870edabb5d3a2/transformed/navigation-common-ktx-2.7.6/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.6] /Users/dennislukeowuor/.gradle/caches/transforms-3/2bdc537547b09f66398870edabb5d3a2/transformed/navigation-common-ktx-2.7.6/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.6] /Users/dennislukeowuor/.gradle/caches/transforms-3/d05422ca889b2b7a482d6b5d2e82fe46/transformed/navigation-runtime-ktx-2.7.6/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.6] /Users/dennislukeowuor/.gradle/caches/transforms-3/d05422ca889b2b7a482d6b5d2e82fe46/transformed/navigation-runtime-ktx-2.7.6/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.7.6] /Users/dennislukeowuor/.gradle/caches/transforms-3/e277eab7178b0d982ad98ac67ec97dd1/transformed/navigation-compose-2.7.6/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.7.6] /Users/dennislukeowuor/.gradle/caches/transforms-3/e277eab7178b0d982ad98ac67ec97dd1/transformed/navigation-compose-2.7.6/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material3:material3:1.1.2] /Users/dennislukeowuor/.gradle/caches/transforms-3/2caa0b95f19845cdeb19b5ba189d274d/transformed/material3-1.1.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3:1.1.2] /Users/dennislukeowuor/.gradle/caches/transforms-3/2caa0b95f19845cdeb19b5ba189d274d/transformed/material3-1.1.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.5.4] /Users/dennislukeowuor/.gradle/caches/transforms-3/7847a5c53e96e05d780e380ab2df4067/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.5.4] /Users/dennislukeowuor/.gradle/caches/transforms-3/7847a5c53e96e05d780e380ab2df4067/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.5.4] /Users/dennislukeowuor/.gradle/caches/transforms-3/16f5e628ac55e3cd02e1fa516d95a3b4/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.5.4] /Users/dennislukeowuor/.gradle/caches/transforms-3/16f5e628ac55e3cd02e1fa516d95a3b4/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.5.4] /Users/dennislukeowuor/.gradle/caches/transforms-3/7eb0399a7e8964aa375befb5d8a7f7e9/transformed/material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.5.4] /Users/dennislukeowuor/.gradle/caches/transforms-3/7eb0399a7e8964aa375befb5d8a7f7e9/transformed/material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.5.4] /Users/dennislukeowuor/.gradle/caches/transforms-3/9f4fe2b21bbd5e913b7c54bfd6414fdb/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.5.4] /Users/dennislukeowuor/.gradle/caches/transforms-3/9f4fe2b21bbd5e913b7c54bfd6414fdb/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.5.4] /Users/dennislukeowuor/.gradle/caches/transforms-3/a3d46f159e98aded4acbda60ab0cc4e5/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.5.4] /Users/dennislukeowuor/.gradle/caches/transforms-3/a3d46f159e98aded4acbda60ab0cc4e5/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.4] /Users/dennislukeowuor/.gradle/caches/transforms-3/adadf92d048958ccfbc7b875128e8d7a/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.4] /Users/dennislukeowuor/.gradle/caches/transforms-3/adadf92d048958ccfbc7b875128e8d7a/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.5.4] /Users/dennislukeowuor/.gradle/caches/transforms-3/74bbc37f697346e524201cadb32593d7/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.5.4] /Users/dennislukeowuor/.gradle/caches/transforms-3/74bbc37f697346e524201cadb32593d7/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.5.4] /Users/dennislukeowuor/.gradle/caches/transforms-3/52ccabde3ab533e2e79f240ef3234b85/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.5.4] /Users/dennislukeowuor/.gradle/caches/transforms-3/52ccabde3ab533e2e79f240ef3234b85/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.5.4] /Users/dennislukeowuor/.gradle/caches/transforms-3/0d6fffba64e2c32d9f203df04ba66fcb/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.5.4] /Users/dennislukeowuor/.gradle/caches/transforms-3/0d6fffba64e2c32d9f203df04ba66fcb/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.5.4] /Users/dennislukeowuor/.gradle/caches/transforms-3/d3aaf3f0c97c717b577c6111c42b9af7/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.5.4] /Users/dennislukeowuor/.gradle/caches/transforms-3/d3aaf3f0c97c717b577c6111c42b9af7/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.5.4] /Users/dennislukeowuor/.gradle/caches/transforms-3/b7c9d299e9845904ad305f392d54852e/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.5.4] /Users/dennislukeowuor/.gradle/caches/transforms-3/b7c9d299e9845904ad305f392d54852e/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.5.4] /Users/dennislukeowuor/.gradle/caches/transforms-3/27b000d7de49ca3264030024bcd039c1/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.5.4] /Users/dennislukeowuor/.gradle/caches/transforms-3/27b000d7de49ca3264030024bcd039c1/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.4] /Users/dennislukeowuor/.gradle/caches/transforms-3/e51dfd341dba89800147a44a33f01c4a/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.4] /Users/dennislukeowuor/.gradle/caches/transforms-3/e51dfd341dba89800147a44a33f01c4a/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.4] /Users/dennislukeowuor/.gradle/caches/transforms-3/84927101b2c48eda3d1ea500ce813421/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.4] /Users/dennislukeowuor/.gradle/caches/transforms-3/84927101b2c48eda3d1ea500ce813421/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.5.4] /Users/dennislukeowuor/.gradle/caches/transforms-3/907743c0fae7fbf0e3a58e6005ef9db3/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.5.4] /Users/dennislukeowuor/.gradle/caches/transforms-3/907743c0fae7fbf0e3a58e6005ef9db3/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.5.4] /Users/dennislukeowuor/.gradle/caches/transforms-3/f0cf36566e37ef47e2788990501868fa/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.5.4] /Users/dennislukeowuor/.gradle/caches/transforms-3/f0cf36566e37ef47e2788990501868fa/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.4] /Users/dennislukeowuor/.gradle/caches/transforms-3/9368203dcdacbe6085cdf29917d05fca/transformed/ui-test-manifest-1.5.4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.4] /Users/dennislukeowuor/.gradle/caches/transforms-3/9368203dcdacbe6085cdf29917d05fca/transformed/ui-test-manifest-1.5.4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/dennislukeowuor/.gradle/caches/transforms-3/f35e86389dab5358142762bcc5afa5a7/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/dennislukeowuor/.gradle/caches/transforms-3/f35e86389dab5358142762bcc5afa5a7/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/dennislukeowuor/.gradle/caches/transforms-3/8fe2f2bcac84df9dcb4a5da025c6ae50/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/dennislukeowuor/.gradle/caches/transforms-3/8fe2f2bcac84df9dcb4a5da025c6ae50/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.6.1] /Users/dennislukeowuor/.gradle/caches/transforms-3/e6b64e9b205bc92db9e212f8d3ec8870/transformed/fragment-ktx-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.6.1] /Users/dennislukeowuor/.gradle/caches/transforms-3/e6b64e9b205bc92db9e212f8d3ec8870/transformed/fragment-ktx-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-firestore:24.10.1] /Users/dennislukeowuor/.gradle/caches/transforms-3/13000ab31e66bba7f9104d39c032e5bf/transformed/firebase-firestore-24.10.1/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-firestore:24.10.1] /Users/dennislukeowuor/.gradle/caches/transforms-3/13000ab31e66bba7f9104d39c032e5bf/transformed/firebase-firestore-24.10.1/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/60f8833770e377c5d05031854452ea8d/transformed/firebase-appcheck-interop-17.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/60f8833770e377c5d05031854452ea8d/transformed/firebase-appcheck-interop-17.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /Users/dennislukeowuor/.gradle/caches/transforms-3/f1196fd2add99307775646186baa3190/transformed/firebase-database-collection-18.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /Users/dennislukeowuor/.gradle/caches/transforms-3/f1196fd2add99307775646186baa3190/transformed/firebase-database-collection-18.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/dennislukeowuor/.gradle/caches/transforms-3/6cbeef53234a42cccb60034a5d10e847/transformed/play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/dennislukeowuor/.gradle/caches/transforms-3/6cbeef53234a42cccb60034a5d10e847/transformed/play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-analytics:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/ad0c7f7a10f47a2eada4b85b0bd0e27c/transformed/firebase-analytics-21.5.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/ad0c7f7a10f47a2eada4b85b0bd0e27c/transformed/firebase-analytics-21.5.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/e6828a3b9cf68dea0304c9f5c82052ed/transformed/play-services-measurement-21.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/e6828a3b9cf68dea0304c9f5c82052ed/transformed/play-services-measurement-21.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/caafc54ab7a518137ebbb04b36ca79af/transformed/play-services-measurement-api-21.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/caafc54ab7a518137ebbb04b36ca79af/transformed/play-services-measurement-api-21.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/2932ef1372f721c5858e60e157d5a529/transformed/play-services-measurement-sdk-21.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/2932ef1372f721c5858e60e157d5a529/transformed/play-services-measurement-sdk-21.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] /Users/dennislukeowuor/.gradle/caches/transforms-3/6d8b0672d414859f3f44822ec610c4f7/transformed/firebase-auth-interop-19.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] /Users/dennislukeowuor/.gradle/caches/transforms-3/6d8b0672d414859f3f44822ec610c4f7/transformed/firebase-auth-interop-19.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations:17.2.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/805a8b1dfc02f97fb440ec76d7479886/transformed/firebase-installations-17.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations:17.2.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/805a8b1dfc02f97fb440ec76d7479886/transformed/firebase-installations-17.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] /Users/dennislukeowuor/.gradle/caches/transforms-3/01419104e04e16bbb490ef07f1d4bd4f/transformed/firebase-common-ktx-20.4.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] /Users/dennislukeowuor/.gradle/caches/transforms-3/01419104e04e16bbb490ef07f1d4bd4f/transformed/firebase-common-ktx-20.4.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:20.4.2] /Users/dennislukeowuor/.gradle/caches/transforms-3/c93d6d7bc2893185610758d7dbc5c246/transformed/firebase-common-20.4.2/AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-common:20.4.2] /Users/dennislukeowuor/.gradle/caches/transforms-3/c93d6d7bc2893185610758d7dbc5c246/transformed/firebase-common-20.4.2/AndroidManifest.xml:19:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/5cd15acc4d60174c02e95a6d483774ae/transformed/play-services-measurement-impl-21.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/5cd15acc4d60174c02e95a6d483774ae/transformed/play-services-measurement-impl-21.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/25c4c86385f95dc8453acda05613d243/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/25c4c86385f95dc8453acda05613d243/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/322d8b86265e7f9b5647bcfb2a58d682/transformed/play-services-measurement-sdk-api-21.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/322d8b86265e7f9b5647bcfb2a58d682/transformed/play-services-measurement-sdk-api-21.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/fc26349d9c78d8c76f019b8850c458e0/transformed/play-services-measurement-base-21.5.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/fc26349d9c78d8c76f019b8850c458e0/transformed/play-services-measurement-base-21.5.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/dennislukeowuor/.gradle/caches/transforms-3/01401eaacf4e310bdd92f51b1ab8ffe5/transformed/play-services-stats-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/dennislukeowuor/.gradle/caches/transforms-3/01401eaacf4e310bdd92f51b1ab8ffe5/transformed/play-services-stats-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/abe334b967fb9188cf525790121f11dd/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/abe334b967fb9188cf525790121f11dd/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/c8a37d5343991b3e4080cd10f3009952/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/c8a37d5343991b3e4080cd10f3009952/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/e38e99610dd05532d973f2d91dd599cb/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/e38e99610dd05532d973f2d91dd599cb/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.4.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/f6b539a7226c6b2eb847a40282d29c7e/transformed/emoji2-views-helper-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.4.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/f6b539a7226c6b2eb847a40282d29c7e/transformed/emoji2-views-helper-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/080e09b96deba171bf408b194792d277/transformed/emoji2-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/080e09b96deba171bf408b194792d277/transformed/emoji2-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/86532c2c363167d82208fe39941979d1/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/86532c2c363167d82208fe39941979d1/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/b4b5f83a86c3152c899f434aec3ceb27/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/b4b5f83a86c3152c899f434aec3ceb27/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/cfd829dad926e1dd1fc18eed8f2712fb/transformed/lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/cfd829dad926e1dd1fc18eed8f2712fb/transformed/lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/fbacb4e800875a1fabd2b5984f12e025/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/fbacb4e800875a1fabd2b5984f12e025/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/3031edcaa8c64734fa1c0bc079fc28ad/transformed/lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/3031edcaa8c64734fa1c0bc079fc28ad/transformed/lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/c2aae1a46235a430a2bfed727eeba6d7/transformed/lifecycle-viewmodel-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/c2aae1a46235a430a2bfed727eeba6d7/transformed/lifecycle-viewmodel-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/00e935e07c68b34d163a35cb59e693a4/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/00e935e07c68b34d163a35cb59e693a4/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/dennislukeowuor/.gradle/caches/transforms-3/9acbcdff91533edc39edbc0dbd1f7e9e/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/dennislukeowuor/.gradle/caches/transforms-3/9acbcdff91533edc39edbc0dbd1f7e9e/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/dennislukeowuor/.gradle/caches/transforms-3/25e7a8bc6d538a5fa8109213db017e7d/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/dennislukeowuor/.gradle/caches/transforms-3/25e7a8bc6d538a5fa8109213db017e7d/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.4] /Users/dennislukeowuor/.gradle/caches/transforms-3/5a6bd5780edcd8447da0324dc1e06142/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.4] /Users/dennislukeowuor/.gradle/caches/transforms-3/5a6bd5780edcd8447da0324dc1e06142/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.5.4] /Users/dennislukeowuor/.gradle/caches/transforms-3/2673f1c9bb357ef4c4a78d5438a61c3e/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.5.4] /Users/dennislukeowuor/.gradle/caches/transforms-3/2673f1c9bb357ef4c4a78d5438a61c3e/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] /Users/dennislukeowuor/.gradle/caches/transforms-3/7e7c758e336bfb07fbde646dba03a6c4/transformed/ads-adservices-java-1.0.0-beta05/AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] /Users/dennislukeowuor/.gradle/caches/transforms-3/7e7c758e336bfb07fbde646dba03a6c4/transformed/ads-adservices-java-1.0.0-beta05/AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/dennislukeowuor/.gradle/caches/transforms-3/72a5b1506fda98a57c44616eb198f6c8/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/dennislukeowuor/.gradle/caches/transforms-3/72a5b1506fda98a57c44616eb198f6c8/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] /Users/dennislukeowuor/.gradle/caches/transforms-3/e86690d82922cc566dbc94f1504c9eb3/transformed/firebase-installations-interop-17.1.1/AndroidManifest.xml:17:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] /Users/dennislukeowuor/.gradle/caches/transforms-3/e86690d82922cc566dbc94f1504c9eb3/transformed/firebase-installations-interop-17.1.1/AndroidManifest.xml:17:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/dennislukeowuor/.gradle/caches/transforms-3/0bd612602d02a986bdd4b83714520c90/transformed/play-services-tasks-18.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/dennislukeowuor/.gradle/caches/transforms-3/0bd612602d02a986bdd4b83714520c90/transformed/play-services-tasks-18.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/7b2f67ec46310f6840d7ffbcb68231d0/transformed/play-services-basement-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/7b2f67ec46310f6840d7ffbcb68231d0/transformed/play-services-basement-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.6.1] /Users/dennislukeowuor/.gradle/caches/transforms-3/0839ff4d143f831a44a412e36c4ea92e/transformed/fragment-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.6.1] /Users/dennislukeowuor/.gradle/caches/transforms-3/0839ff4d143f831a44a412e36c4ea92e/transformed/fragment-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.2] /Users/dennislukeowuor/.gradle/caches/transforms-3/36723af46ec6cd1bd73897307961ec01/transformed/activity-1.8.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.2] /Users/dennislukeowuor/.gradle/caches/transforms-3/36723af46ec6cd1bd73897307961ec01/transformed/activity-1.8.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.8.2] /Users/dennislukeowuor/.gradle/caches/transforms-3/90b2305b90db403a910663827137ad84/transformed/activity-compose-1.8.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.8.2] /Users/dennislukeowuor/.gradle/caches/transforms-3/90b2305b90db403a910663827137ad84/transformed/activity-compose-1.8.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.2] /Users/dennislukeowuor/.gradle/caches/transforms-3/fdf8a1af1f06a0626af269f1c3319e51/transformed/activity-ktx-1.8.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.2] /Users/dennislukeowuor/.gradle/caches/transforms-3/fdf8a1af1f06a0626af269f1c3319e51/transformed/activity-ktx-1.8.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/2153760e666f9342430805cb10b11309/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/2153760e666f9342430805cb10b11309/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.12.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/92b42fba43ee35c1d8dabb2beb8244ac/transformed/core-ktx-1.12.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/92b42fba43ee35c1d8dabb2beb8244ac/transformed/core-ktx-1.12.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/72e577ca0b78b30bfef7b4d9aa5acdcb/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/72e577ca0b78b30bfef7b4d9aa5acdcb/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/da7eb13998d5d0ca0bd13c6a38392e37/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/da7eb13998d5d0ca0bd13c6a38392e37/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/2022ba3b0c5f1fc39de189c7d07075f4/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/2022ba3b0c5f1fc39de189c7d07075f4/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/6eacb70d02fab456f685318cc8d9c3b4/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/6eacb70d02fab456f685318cc8d9c3b4/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/e741614929388f4aba99b4d053922af8/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/e741614929388f4aba99b4d053922af8/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/be9794ce9c7ac615829aefb0fe5b811f/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/be9794ce9c7ac615829aefb0fe5b811f/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/1a04f1238542274b9045d9823092519b/transformed/core-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/1a04f1238542274b9045d9823092519b/transformed/core-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/6a2279a728a40737b7fd6f3c6cda1f79/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/6a2279a728a40737b7fd6f3c6cda1f79/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.7.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/44a6a807e21e842404d8c4a49762f834/transformed/lifecycle-viewmodel-compose-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.7.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/44a6a807e21e842404d8c4a49762f834/transformed/lifecycle-viewmodel-compose-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/294c179733684230d7521546af62a7e2/transformed/lifecycle-runtime-ktx-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/294c179733684230d7521546af62a7e2/transformed/lifecycle-runtime-ktx-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/b5c658adffb928ada1d1f2588d35bdc2/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/b5c658adffb928ada1d1f2588d35bdc2/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:17.1.5] /Users/dennislukeowuor/.gradle/caches/transforms-3/313d7fa95f18ccd27825a4fbd7e22387/transformed/firebase-components-17.1.5/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-components:17.1.5] /Users/dennislukeowuor/.gradle/caches/transforms-3/313d7fa95f18ccd27825a4fbd7e22387/transformed/firebase-components-17.1.5/AndroidManifest.xml:18:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/01e5783a33211bad3743d1bf1f378af9/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/01e5783a33211bad3743d1bf1f378af9/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/dennislukeowuor/.gradle/caches/transforms-3/906bb72113c2e4408fdab058655010a4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/dennislukeowuor/.gradle/caches/transforms-3/906bb72113c2e4408fdab058655010a4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/79a5cf79b7c5a751531f51e3eb91c590/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/79a5cf79b7c5a751531f51e3eb91c590/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/e8e836a8dad1a501bc419da42157c2e5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/e8e836a8dad1a501bc419da42157c2e5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/07bc1f0ff50598a206e0c376351768c9/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/07bc1f0ff50598a206e0c376351768c9/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/dennislukeowuor/.gradle/caches/transforms-3/e2a22635978d15425c6e6e1df17a5781/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/dennislukeowuor/.gradle/caches/transforms-3/e2a22635978d15425c6e6e1df17a5781/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/148856c06e31bb6fb6fe55c6352d6dff/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/148856c06e31bb6fb6fe55c6352d6dff/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/631a002f43b75e36fe8201e8a419cef9/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/631a002f43b75e36fe8201e8a419cef9/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/7c7413095f0dde655ea15a5d7ab23603/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/7c7413095f0dde655ea15a5d7ab23603/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/e3d1d8b5b0e9118c969c338b2abd5aaf/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/e3d1d8b5b0e9118c969c338b2abd5aaf/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [io.grpc:grpc-android:1.57.2] /Users/dennislukeowuor/.gradle/caches/transforms-3/c6772ed73d2126cce1fc70acb8cc2f46/transformed/grpc-android-1.57.2/AndroidManifest.xml:5:5-44
+MERGED from [io.grpc:grpc-android:1.57.2] /Users/dennislukeowuor/.gradle/caches/transforms-3/c6772ed73d2126cce1fc70acb8cc2f46/transformed/grpc-android-1.57.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/9f6493405680466f6535e702c77d3567/transformed/protolite-well-known-types-18.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/9f6493405680466f6535e702c77d3567/transformed/protolite-well-known-types-18.0.0/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/dennislukeowuor/Documents/Cashi_Mobile_App/androidApp/src/main/AndroidManifest.xml
+INJECTED from /Users/dennislukeowuor/Documents/Cashi_Mobile_App/androidApp/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/dennislukeowuor/Documents/Cashi_Mobile_App/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/dennislukeowuor/Documents/Cashi_Mobile_App/androidApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/dennislukeowuor/Documents/Cashi_Mobile_App/androidApp/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/dennislukeowuor/Documents/Cashi_Mobile_App/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/dennislukeowuor/Documents/Cashi_Mobile_App/androidApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/dennislukeowuor/Documents/Cashi_Mobile_App/androidApp/src/main/AndroidManifest.xml
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.5.4] /Users/dennislukeowuor/.gradle/caches/transforms-3/84927101b2c48eda3d1ea500ce813421/transformed/ui-tooling-release/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.5.4] /Users/dennislukeowuor/.gradle/caches/transforms-3/84927101b2c48eda3d1ea500ce813421/transformed/ui-tooling-release/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.5.4] /Users/dennislukeowuor/.gradle/caches/transforms-3/84927101b2c48eda3d1ea500ce813421/transformed/ui-tooling-release/AndroidManifest.xml:24:13-71
+activity#androidx.activity.ComponentActivity
+ADDED from [androidx.compose.ui:ui-test-manifest:1.5.4] /Users/dennislukeowuor/.gradle/caches/transforms-3/9368203dcdacbe6085cdf29917d05fca/transformed/ui-test-manifest-1.5.4/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.5.4] /Users/dennislukeowuor/.gradle/caches/transforms-3/9368203dcdacbe6085cdf29917d05fca/transformed/ui-test-manifest-1.5.4/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.5.4] /Users/dennislukeowuor/.gradle/caches/transforms-3/9368203dcdacbe6085cdf29917d05fca/transformed/ui-test-manifest-1.5.4/AndroidManifest.xml:24:13-63
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-firestore:24.10.1] /Users/dennislukeowuor/.gradle/caches/transforms-3/13000ab31e66bba7f9104d39c032e5bf/transformed/firebase-firestore-24.10.1/AndroidManifest.xml:14:9-23:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/caafc54ab7a518137ebbb04b36ca79af/transformed/play-services-measurement-api-21.5.0/AndroidManifest.xml:34:9-40:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/caafc54ab7a518137ebbb04b36ca79af/transformed/play-services-measurement-api-21.5.0/AndroidManifest.xml:34:9-40:19
+MERGED from [com.google.firebase:firebase-installations:17.2.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/805a8b1dfc02f97fb440ec76d7479886/transformed/firebase-installations-17.2.0/AndroidManifest.xml:12:9-21:19
+MERGED from [com.google.firebase:firebase-installations:17.2.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/805a8b1dfc02f97fb440ec76d7479886/transformed/firebase-installations-17.2.0/AndroidManifest.xml:12:9-21:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] /Users/dennislukeowuor/.gradle/caches/transforms-3/01419104e04e16bbb490ef07f1d4bd4f/transformed/firebase-common-ktx-20.4.2/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] /Users/dennislukeowuor/.gradle/caches/transforms-3/01419104e04e16bbb490ef07f1d4bd4f/transformed/firebase-common-ktx-20.4.2/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common:20.4.2] /Users/dennislukeowuor/.gradle/caches/transforms-3/c93d6d7bc2893185610758d7dbc5c246/transformed/firebase-common-20.4.2/AndroidManifest.xml:30:9-38:19
+MERGED from [com.google.firebase:firebase-common:20.4.2] /Users/dennislukeowuor/.gradle/caches/transforms-3/c93d6d7bc2893185610758d7dbc5c246/transformed/firebase-common-20.4.2/AndroidManifest.xml:30:9-38:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-firestore:24.10.1] /Users/dennislukeowuor/.gradle/caches/transforms-3/13000ab31e66bba7f9104d39c032e5bf/transformed/firebase-firestore-24.10.1/AndroidManifest.xml:16:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.4.2] /Users/dennislukeowuor/.gradle/caches/transforms-3/c93d6d7bc2893185610758d7dbc5c246/transformed/firebase-common-20.4.2/AndroidManifest.xml:34:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.4.2] /Users/dennislukeowuor/.gradle/caches/transforms-3/c93d6d7bc2893185610758d7dbc5c246/transformed/firebase-common-20.4.2/AndroidManifest.xml:32:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:24.10.1] /Users/dennislukeowuor/.gradle/caches/transforms-3/13000ab31e66bba7f9104d39c032e5bf/transformed/firebase-firestore-24.10.1/AndroidManifest.xml:15:13-84
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirebaseFirestoreKtxRegistrar
+ADDED from [com.google.firebase:firebase-firestore:24.10.1] /Users/dennislukeowuor/.gradle/caches/transforms-3/13000ab31e66bba7f9104d39c032e5bf/transformed/firebase-firestore-24.10.1/AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:24.10.1] /Users/dennislukeowuor/.gradle/caches/transforms-3/13000ab31e66bba7f9104d39c032e5bf/transformed/firebase-firestore-24.10.1/AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:24.10.1] /Users/dennislukeowuor/.gradle/caches/transforms-3/13000ab31e66bba7f9104d39c032e5bf/transformed/firebase-firestore-24.10.1/AndroidManifest.xml:18:17-122
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:24.10.1] /Users/dennislukeowuor/.gradle/caches/transforms-3/13000ab31e66bba7f9104d39c032e5bf/transformed/firebase-firestore-24.10.1/AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:24.10.1] /Users/dennislukeowuor/.gradle/caches/transforms-3/13000ab31e66bba7f9104d39c032e5bf/transformed/firebase-firestore-24.10.1/AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:24.10.1] /Users/dennislukeowuor/.gradle/caches/transforms-3/13000ab31e66bba7f9104d39c032e5bf/transformed/firebase-firestore-24.10.1/AndroidManifest.xml:21:17-111
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/dennislukeowuor/.gradle/caches/transforms-3/6cbeef53234a42cccb60034a5d10e847/transformed/play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/dennislukeowuor/.gradle/caches/transforms-3/6cbeef53234a42cccb60034a5d10e847/transformed/play-services-base-18.0.1/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/dennislukeowuor/.gradle/caches/transforms-3/6cbeef53234a42cccb60034a5d10e847/transformed/play-services-base-18.0.1/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/dennislukeowuor/.gradle/caches/transforms-3/6cbeef53234a42cccb60034a5d10e847/transformed/play-services-base-18.0.1/AndroidManifest.xml:20:19-85
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/e6828a3b9cf68dea0304c9f5c82052ed/transformed/play-services-measurement-21.5.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/caafc54ab7a518137ebbb04b36ca79af/transformed/play-services-measurement-api-21.5.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/caafc54ab7a518137ebbb04b36ca79af/transformed/play-services-measurement-api-21.5.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/5cd15acc4d60174c02e95a6d483774ae/transformed/play-services-measurement-impl-21.5.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/5cd15acc4d60174c02e95a6d483774ae/transformed/play-services-measurement-impl-21.5.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/322d8b86265e7f9b5647bcfb2a58d682/transformed/play-services-measurement-sdk-api-21.5.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/322d8b86265e7f9b5647bcfb2a58d682/transformed/play-services-measurement-sdk-api-21.5.0/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/e6828a3b9cf68dea0304c9f5c82052ed/transformed/play-services-measurement-21.5.0/AndroidManifest.xml:25:22-65
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/e6828a3b9cf68dea0304c9f5c82052ed/transformed/play-services-measurement-21.5.0/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/5cd15acc4d60174c02e95a6d483774ae/transformed/play-services-measurement-impl-21.5.0/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/5cd15acc4d60174c02e95a6d483774ae/transformed/play-services-measurement-impl-21.5.0/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/e6828a3b9cf68dea0304c9f5c82052ed/transformed/play-services-measurement-21.5.0/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/e6828a3b9cf68dea0304c9f5c82052ed/transformed/play-services-measurement-21.5.0/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/e6828a3b9cf68dea0304c9f5c82052ed/transformed/play-services-measurement-21.5.0/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/e6828a3b9cf68dea0304c9f5c82052ed/transformed/play-services-measurement-21.5.0/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/e6828a3b9cf68dea0304c9f5c82052ed/transformed/play-services-measurement-21.5.0/AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/e6828a3b9cf68dea0304c9f5c82052ed/transformed/play-services-measurement-21.5.0/AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/e6828a3b9cf68dea0304c9f5c82052ed/transformed/play-services-measurement-21.5.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/e6828a3b9cf68dea0304c9f5c82052ed/transformed/play-services-measurement-21.5.0/AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/e6828a3b9cf68dea0304c9f5c82052ed/transformed/play-services-measurement-21.5.0/AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/e6828a3b9cf68dea0304c9f5c82052ed/transformed/play-services-measurement-21.5.0/AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/e6828a3b9cf68dea0304c9f5c82052ed/transformed/play-services-measurement-21.5.0/AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/e6828a3b9cf68dea0304c9f5c82052ed/transformed/play-services-measurement-21.5.0/AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/e6828a3b9cf68dea0304c9f5c82052ed/transformed/play-services-measurement-21.5.0/AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/e6828a3b9cf68dea0304c9f5c82052ed/transformed/play-services-measurement-21.5.0/AndroidManifest.xml:40:13-87
+uses-permission#com.google.android.gms.permission.AD_ID
+ADDED from [com.google.android.gms:play-services-measurement-api:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/caafc54ab7a518137ebbb04b36ca79af/transformed/play-services-measurement-api-21.5.0/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/5cd15acc4d60174c02e95a6d483774ae/transformed/play-services-measurement-impl-21.5.0/AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/5cd15acc4d60174c02e95a6d483774ae/transformed/play-services-measurement-impl-21.5.0/AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/25c4c86385f95dc8453acda05613d243/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/25c4c86385f95dc8453acda05613d243/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/322d8b86265e7f9b5647bcfb2a58d682/transformed/play-services-measurement-sdk-api-21.5.0/AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/322d8b86265e7f9b5647bcfb2a58d682/transformed/play-services-measurement-sdk-api-21.5.0/AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/caafc54ab7a518137ebbb04b36ca79af/transformed/play-services-measurement-api-21.5.0/AndroidManifest.xml:25:22-76
+uses-permission#android.permission.ACCESS_ADSERVICES_ATTRIBUTION
+ADDED from [com.google.android.gms:play-services-measurement-api:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/caafc54ab7a518137ebbb04b36ca79af/transformed/play-services-measurement-api-21.5.0/AndroidManifest.xml:26:5-88
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/322d8b86265e7f9b5647bcfb2a58d682/transformed/play-services-measurement-sdk-api-21.5.0/AndroidManifest.xml:27:5-88
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/322d8b86265e7f9b5647bcfb2a58d682/transformed/play-services-measurement-sdk-api-21.5.0/AndroidManifest.xml:27:5-88
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/caafc54ab7a518137ebbb04b36ca79af/transformed/play-services-measurement-api-21.5.0/AndroidManifest.xml:26:22-85
+uses-permission#android.permission.ACCESS_ADSERVICES_AD_ID
+ADDED from [com.google.android.gms:play-services-measurement-api:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/caafc54ab7a518137ebbb04b36ca79af/transformed/play-services-measurement-api-21.5.0/AndroidManifest.xml:27:5-82
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/322d8b86265e7f9b5647bcfb2a58d682/transformed/play-services-measurement-sdk-api-21.5.0/AndroidManifest.xml:28:5-82
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/322d8b86265e7f9b5647bcfb2a58d682/transformed/play-services-measurement-sdk-api-21.5.0/AndroidManifest.xml:28:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/caafc54ab7a518137ebbb04b36ca79af/transformed/play-services-measurement-api-21.5.0/AndroidManifest.xml:27:22-79
+property
+ADDED from [com.google.android.gms:play-services-measurement-api:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/caafc54ab7a518137ebbb04b36ca79af/transformed/play-services-measurement-api-21.5.0/AndroidManifest.xml:30:9-32:61
+	android:resource
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/caafc54ab7a518137ebbb04b36ca79af/transformed/play-services-measurement-api-21.5.0/AndroidManifest.xml:32:13-58
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/caafc54ab7a518137ebbb04b36ca79af/transformed/play-services-measurement-api-21.5.0/AndroidManifest.xml:31:13-65
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/caafc54ab7a518137ebbb04b36ca79af/transformed/play-services-measurement-api-21.5.0/AndroidManifest.xml:37:13-39:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/caafc54ab7a518137ebbb04b36ca79af/transformed/play-services-measurement-api-21.5.0/AndroidManifest.xml:39:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.5.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/caafc54ab7a518137ebbb04b36ca79af/transformed/play-services-measurement-api-21.5.0/AndroidManifest.xml:38:17-139
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsKtxRegistrar
+ADDED from [com.google.firebase:firebase-installations:17.2.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/805a8b1dfc02f97fb440ec76d7479886/transformed/firebase-installations-17.2.0/AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:17.2.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/805a8b1dfc02f97fb440ec76d7479886/transformed/firebase-installations-17.2.0/AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:17.2.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/805a8b1dfc02f97fb440ec76d7479886/transformed/firebase-installations-17.2.0/AndroidManifest.xml:16:17-130
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:17.2.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/805a8b1dfc02f97fb440ec76d7479886/transformed/firebase-installations-17.2.0/AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:17.2.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/805a8b1dfc02f97fb440ec76d7479886/transformed/firebase-installations-17.2.0/AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:17.2.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/805a8b1dfc02f97fb440ec76d7479886/transformed/firebase-installations-17.2.0/AndroidManifest.xml:19:17-127
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:20.4.2] /Users/dennislukeowuor/.gradle/caches/transforms-3/01419104e04e16bbb490ef07f1d4bd4f/transformed/firebase-common-ktx-20.4.2/AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:20.4.2] /Users/dennislukeowuor/.gradle/caches/transforms-3/01419104e04e16bbb490ef07f1d4bd4f/transformed/firebase-common-ktx-20.4.2/AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:20.4.2] /Users/dennislukeowuor/.gradle/caches/transforms-3/01419104e04e16bbb490ef07f1d4bd4f/transformed/firebase-common-ktx-20.4.2/AndroidManifest.xml:13:17-116
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.4.2] /Users/dennislukeowuor/.gradle/caches/transforms-3/c93d6d7bc2893185610758d7dbc5c246/transformed/firebase-common-20.4.2/AndroidManifest.xml:23:9-28:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.4.2] /Users/dennislukeowuor/.gradle/caches/transforms-3/c93d6d7bc2893185610758d7dbc5c246/transformed/firebase-common-20.4.2/AndroidManifest.xml:25:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.4.2] /Users/dennislukeowuor/.gradle/caches/transforms-3/c93d6d7bc2893185610758d7dbc5c246/transformed/firebase-common-20.4.2/AndroidManifest.xml:27:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.4.2] /Users/dennislukeowuor/.gradle/caches/transforms-3/c93d6d7bc2893185610758d7dbc5c246/transformed/firebase-common-20.4.2/AndroidManifest.xml:26:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.4.2] /Users/dennislukeowuor/.gradle/caches/transforms-3/c93d6d7bc2893185610758d7dbc5c246/transformed/firebase-common-20.4.2/AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.4.2] /Users/dennislukeowuor/.gradle/caches/transforms-3/c93d6d7bc2893185610758d7dbc5c246/transformed/firebase-common-20.4.2/AndroidManifest.xml:24:13-77
+meta-data#com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common:20.4.2] /Users/dennislukeowuor/.gradle/caches/transforms-3/c93d6d7bc2893185610758d7dbc5c246/transformed/firebase-common-20.4.2/AndroidManifest.xml:35:13-37:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:20.4.2] /Users/dennislukeowuor/.gradle/caches/transforms-3/c93d6d7bc2893185610758d7dbc5c246/transformed/firebase-common-20.4.2/AndroidManifest.xml:37:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.4.2] /Users/dennislukeowuor/.gradle/caches/transforms-3/c93d6d7bc2893185610758d7dbc5c246/transformed/firebase-common-20.4.2/AndroidManifest.xml:36:17-109
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/080e09b96deba171bf408b194792d277/transformed/emoji2-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/86532c2c363167d82208fe39941979d1/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/86532c2c363167d82208fe39941979d1/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/e8e836a8dad1a501bc419da42157c2e5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/e8e836a8dad1a501bc419da42157c2e5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/dennislukeowuor/.gradle/caches/transforms-3/e2a22635978d15425c6e6e1df17a5781/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/dennislukeowuor/.gradle/caches/transforms-3/e2a22635978d15425c6e6e1df17a5781/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/080e09b96deba171bf408b194792d277/transformed/emoji2-1.4.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/080e09b96deba171bf408b194792d277/transformed/emoji2-1.4.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/080e09b96deba171bf408b194792d277/transformed/emoji2-1.4.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/080e09b96deba171bf408b194792d277/transformed/emoji2-1.4.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/080e09b96deba171bf408b194792d277/transformed/emoji2-1.4.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/080e09b96deba171bf408b194792d277/transformed/emoji2-1.4.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/080e09b96deba171bf408b194792d277/transformed/emoji2-1.4.0/AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/86532c2c363167d82208fe39941979d1/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/86532c2c363167d82208fe39941979d1/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/86532c2c363167d82208fe39941979d1/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:30:17-78
+uses-library#android.ext.adservices
+ADDED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/dennislukeowuor/.gradle/caches/transforms-3/72a5b1506fda98a57c44616eb198f6c8/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:23:9-25:40
+	android:required
+		ADDED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/dennislukeowuor/.gradle/caches/transforms-3/72a5b1506fda98a57c44616eb198f6c8/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/dennislukeowuor/.gradle/caches/transforms-3/72a5b1506fda98a57c44616eb198f6c8/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:24:13-50
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.1.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/7b2f67ec46310f6840d7ffbcb68231d0/transformed/play-services-basement-18.1.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/7b2f67ec46310f6840d7ffbcb68231d0/transformed/play-services-basement-18.1.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/7b2f67ec46310f6840d7ffbcb68231d0/transformed/play-services-basement-18.1.0/AndroidManifest.xml:22:13-58
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/1a04f1238542274b9045d9823092519b/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/1a04f1238542274b9045d9823092519b/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/1a04f1238542274b9045d9823092519b/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+permission#com.cashi.androidapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/1a04f1238542274b9045d9823092519b/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/1a04f1238542274b9045d9823092519b/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/1a04f1238542274b9045d9823092519b/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/1a04f1238542274b9045d9823092519b/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/1a04f1238542274b9045d9823092519b/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+uses-permission#com.cashi.androidapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/1a04f1238542274b9045d9823092519b/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/1a04f1238542274b9045d9823092519b/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/e8e836a8dad1a501bc419da42157c2e5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/e8e836a8dad1a501bc419da42157c2e5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/e8e836a8dad1a501bc419da42157c2e5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/e8e836a8dad1a501bc419da42157c2e5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/e8e836a8dad1a501bc419da42157c2e5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/e8e836a8dad1a501bc419da42157c2e5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/e8e836a8dad1a501bc419da42157c2e5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/e8e836a8dad1a501bc419da42157c2e5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/e8e836a8dad1a501bc419da42157c2e5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/e8e836a8dad1a501bc419da42157c2e5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/e8e836a8dad1a501bc419da42157c2e5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/e8e836a8dad1a501bc419da42157c2e5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/e8e836a8dad1a501bc419da42157c2e5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/e8e836a8dad1a501bc419da42157c2e5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/e8e836a8dad1a501bc419da42157c2e5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/e8e836a8dad1a501bc419da42157c2e5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/e8e836a8dad1a501bc419da42157c2e5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/e8e836a8dad1a501bc419da42157c2e5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/e8e836a8dad1a501bc419da42157c2e5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/e8e836a8dad1a501bc419da42157c2e5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/dennislukeowuor/.gradle/caches/transforms-3/e8e836a8dad1a501bc419da42157c2e5/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92

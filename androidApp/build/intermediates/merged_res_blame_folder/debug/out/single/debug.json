@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/Users/dennislukeowuor/.gradle/daemon/8.4/com.cashi.androidapp.androidApp-merged_res-65:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/dennislukeowuor/.gradle/daemon/8.4/com.cashi.androidapp.androidApp-main-67:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/dennislukeowuor/.gradle/daemon/8.4/com.cashi.androidapp.androidApp-merged_res-65:/xml_backup_rules.xml.flat",
+        "source": "/Users/dennislukeowuor/.gradle/daemon/8.4/com.cashi.androidapp.androidApp-main-67:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.cashi.androidapp.androidApp-merged_res-65:/xml_network_security_config.xml.flat",
+        "source": "com.cashi.androidapp.androidApp-main-67:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "/Users/dennislukeowuor/.gradle/daemon/8.4/com.cashi.androidapp.androidApp-merged_res-65:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/dennislukeowuor/.gradle/daemon/8.4/com.cashi.androidapp.androidApp-main-67:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/dennislukeowuor/.gradle/daemon/8.4/com.cashi.androidapp.androidApp-merged_res-65:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/dennislukeowuor/.gradle/daemon/8.4/com.cashi.androidapp.androidApp-main-67:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/dennislukeowuor/.gradle/daemon/8.4/com.cashi.androidapp.androidApp-merged_res-65:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/dennislukeowuor/.gradle/daemon/8.4/com.cashi.androidapp.androidApp-main-67:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/dennislukeowuor/.gradle/daemon/8.4/com.cashi.androidapp.androidApp-merged_res-65:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/dennislukeowuor/.gradle/daemon/8.4/com.cashi.androidapp.androidApp-main-67:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/dennislukeowuor/.gradle/daemon/8.4/com.cashi.androidapp.androidApp-merged_res-65:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/dennislukeowuor/.gradle/daemon/8.4/com.cashi.androidapp.androidApp-main-67:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/dennislukeowuor/.gradle/daemon/8.4/com.cashi.androidapp.androidApp-merged_res-65:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/dennislukeowuor/.gradle/daemon/8.4/com.cashi.androidapp.androidApp-main-67:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/dennislukeowuor/.gradle/daemon/8.4/com.cashi.androidapp.androidApp-merged_res-65:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/dennislukeowuor/.gradle/daemon/8.4/com.cashi.androidapp.androidApp-main-67:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/dennislukeowuor/.gradle/daemon/8.4/com.cashi.androidapp.androidApp-merged_res-65:/drawable_ic_launcher.xml.flat",
+        "source": "/Users/dennislukeowuor/.gradle/daemon/8.4/com.cashi.androidapp.androidApp-main-67:/drawable/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/dennislukeowuor/.gradle/daemon/8.4/com.cashi.androidapp.androidApp-merged_res-65:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/dennislukeowuor/.gradle/daemon/8.4/com.cashi.androidapp.androidApp-main-67:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/dennislukeowuor/.gradle/daemon/8.4/com.cashi.androidapp.androidApp-merged_res-65:/xml_network_security_config.xml.flat",
+        "source": "/Users/dennislukeowuor/.gradle/daemon/8.4/com.cashi.androidapp.androidApp-main-67:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "/Users/dennislukeowuor/.gradle/daemon/8.4/com.cashi.androidapp.androidApp-merged_res-65:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/dennislukeowuor/.gradle/daemon/8.4/com.cashi.androidapp.androidApp-main-67:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/dennislukeowuor/.gradle/daemon/8.4/com.cashi.androidapp.androidApp-merged_res-65:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/dennislukeowuor/.gradle/daemon/8.4/com.cashi.androidapp.androidApp-main-67:/mipmap-mdpi/ic_launcher_round.png"
+    }
+]

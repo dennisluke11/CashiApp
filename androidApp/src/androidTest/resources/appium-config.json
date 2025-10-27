@@ -1,0 +1,19 @@
+{
+  "platformName": "Android",
+  "deviceName": "Android Emulator",
+  "appPackage": "com.cashi.androidapp",
+  "appActivity": "com.cashi.androidapp.MainActivity",
+  "automationName": "UiAutomator2",
+  "noReset": false,
+  "fullReset": false,
+  "newCommandTimeout": 60,
+  "appWaitTimeout": 30,
+  "androidInstallTimeout": 120000,
+  "uiautomator2ServerInstallTimeout": 120000,
+  "skipServerInstallation": false,
+  "skipDeviceInitialization": false,
+  "systemPort": 8201,
+  "chromedriverPort": 8202,
+  "mjpegServerPort": 8203,
+  "mjpegScreenshotUrl": "http://localhost:8203/screenshot"
+}

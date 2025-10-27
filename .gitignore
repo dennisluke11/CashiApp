@@ -1,0 +1,39 @@
+# Build files
+/build/
+*.iml
+*.apk
+*.aar
+
+# Local configuration
+local.properties
+.gradle/
+
+# Android Studio
+.idea/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+
+# Log files
+*.log
+
+# Firebase (keep structure, ignore actual config for security)
+# google-services.json is NOT ignored (user provides their own)
+
+# Backend node modules (can be regenerated)
+backend/node_modules/
+backend/package-lock.json
+
+# Test results
+test-results/
+.coverage/
+
+# Java heap dumps
+java_pid*.hprof
+
+# Temporary files
+*.tmp
+

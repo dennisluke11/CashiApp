@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Cashi Mobile App</string>
+    
+    <!-- Payment Screen -->
+    <string name="send_payment_title">Send Payment</string>
+    <string name="transaction_history">Transaction History</string>
+    <string name="back">Back</string>
+    
+    <!-- Form Fields -->
+    <string name="recipient_email">Recipient Email</string>
+    <string name="amount">Amount</string>
+    <string name="currency">Currency</string>
+    
+    <!-- Buttons -->
+    <string name="send_payment_button">Send Payment</string>
+    
+    <!-- Instructions -->
+    <string name="instructions_title">Instructions</string>
+    <string name="instruction_email">Enter a valid email address for the recipient</string>
+    <string name="instruction_amount">Enter the amount you want to send</string>
+    <string name="instruction_currency">Select the currency (USD, EUR, GBP)</string>
+    <string name="instruction_send">Tap \'Send Payment\' to process the transaction</string>
+    
+    <!-- Transaction History -->
+    <string name="no_transactions_found">No transactions found</string>
+    <string name="unknown_date">Unknown date</string>
+    
+    <!-- Common -->
+    <string name="please_fill_all_fields">Please fill in all fields</string>
+    <string name="invalid_amount_format">Invalid amount format</string>
+    <string name="payment_failed">Payment failed</string>
+    
+    <!-- Currency Symbols -->
+    <string name="currency_usd">$</string>
+    <string name="currency_eur">€</string>
+    <string name="currency_gbp">£</string>
+</resources>

@@ -1,0 +1,11 @@
+recipientEmail,amount,currency
+test1@example.com,100.0,USD
+test2@example.com,200.0,EUR
+test3@example.com,150.0,GBP
+test4@example.com,75.5,USD
+test5@example.com,300.0,EUR
+test6@example.com,125.0,GBP
+test7@example.com,50.0,USD
+test8@example.com,250.0,EUR
+test9@example.com,175.0,GBP
+test10@example.com,90.0,USD
