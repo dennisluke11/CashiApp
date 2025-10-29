@@ -36,6 +36,7 @@ Send payments with:
 - Currency selection (USD, EUR, GBP)
 - Real-time validation
 - Success/error feedback
+<img width="350" height="500" alt="Screenshot 2025-10-27 at 15 18 53" src="https://github.com/user-attachments/assets/6cef7fe4-659b-4bea-8ef8-da4c5c7cc168" />
 
 ### Transaction History Screen
 View all past transactions:
@@ -44,6 +45,7 @@ View all past transactions:
 - Timestamp
 - Status (Completed, Pending, Failed)
 - Real-time updates from Firestore
+<img width="308" height="500" alt="Screenshot 2025-10-27 at 15 20 56" src="https://github.com/user-attachments/assets/353441a5-b7be-4f60-8957-ba02d2075b25" />
 
 ## 🛠️ Tech Stack
 
@@ -277,18 +279,6 @@ private const val BASE_URL = "https://your-api-domain.com"
 - **Logging**: Structured logging with timestamps
 - **Metrics**: Response time, error rate, throughput
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests for new functionality
-5. Submit a pull request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 🆘 Troubleshooting
 
 ### Common Issues
@@ -323,7 +313,3 @@ For issues and questions:
 - **Biometric Authentication**: Fingerprint/Face ID
 - **Offline Support**: Local data caching
 - **Multi-language Support**: Internationalization
-
----
-
-**Built with ❤️ using Kotlin Multiplatform, Jetpack Compose, and Firebase**
