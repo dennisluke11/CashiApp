@@ -18,18 +18,10 @@ import androidx.navigation.compose.rememberNavController
 import com.cashi.androidapp.ui.screens.PaymentScreen
 import com.cashi.androidapp.ui.screens.TransactionHistoryScreen
 import com.cashi.androidapp.ui.theme.CashiMobileAppTheme
-import org.koin.android.ext.koin.androidContext
-import org.koin.core.context.startKoin
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        
-        // Initialize Koin
-        startKoin {
-            androidContext(this@MainActivity)
-            modules(com.cashi.shared.di.sharedModule)
-        }
         
         enableEdgeToEdge()
         setContent {
